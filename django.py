@@ -58,3 +58,4 @@ $ git push
 #viewで/adminではないほうのviewを決める。+math1上にurl.pyを作る。
 #url.py(math1)で、urlの登録 path("",views.yourname(defの名前),name = "yourname"(名前付け)) 小ページに行くイメージ (ブログで言うとこの草稿とか)
 #mathmathのurl.pyにurlに登録する    path("yourname/(飛ぶページのurlを指定)",include("math1.urls")) 元のページ（/admin等々の切り替え）
+#
